@@ -100,6 +100,14 @@ body {
   overflow: hidden;
   white-space: nowrap;
 }
+
+.notice-btn{
+  background-color: #0F172A;
+  border-radius: 7px;
+  color: white;
+  text-decoration: none;
+}
+
 .ticker-content {
   display: inline-block;
   animation: tickerMove 35s linear infinite;
@@ -552,7 +560,7 @@ h2.section-title {
   border-radius: 28px;
   background-size: cover;
   background-position: center;
-  background-image: url('https://picsum.photos/id/64/500/500');
+  background-image: url('images/principal.png');
   box-shadow: var(--shadow-md);
   flex-shrink: 0;
 }
