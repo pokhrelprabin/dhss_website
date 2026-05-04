@@ -167,7 +167,7 @@ nav {
     display: flex; 
     flex-direction: column; 
     justify-content: space-around;
-    margin-right: 200px;
+    margin-right: 220px;
 }
 
 .nav-title {
@@ -489,6 +489,7 @@ h2.section-title {
   gap: 60px;
   align-items: center;
 }
+
 .about-img-main {
   background: linear-gradient(145deg, var(--navy-light), #b4c2d4);
   border-radius: 28px;
