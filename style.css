@@ -490,12 +490,13 @@ h2.section-title {
   align-items: center;
 }
 .about-img-main {
-  background: linear-gradient(145deg, var(--navy-light), #1F3A5F);
+  background: linear-gradient(145deg, var(--navy-light), #b4c2d4);
   border-radius: 28px;
   padding: 40px 20px;
   text-align: center;
   box-shadow: var(--shadow-lg);
 }
+
 .school-building-svg { max-width: 260px; margin-bottom: 16px; }
 .about-badge {
   background: var(--gold);
@@ -508,6 +509,7 @@ h2.section-title {
   width: fit-content;
   box-shadow: var(--shadow-md);
 }
+.school-illustration img {border-radius: 25px;}
 .badge-num { font-family: 'Playfair Display', serif; font-size: 32px; font-weight: 700; }
 .neb-badge {
   display: inline-flex;
